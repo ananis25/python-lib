@@ -18,15 +18,7 @@ Usage instructions go here.
 
 ## Development
 
-To contribute to this library, first checkout the code. Then create a new virtual environment:
-
-    cd {{ cookiecutter.hyphenated }}
-    python -mvenv venv
-    source venv/bin/activate
-
-Or if you are using `pipenv`:
-
-    pipenv shell
+To contribute to this library, checkout the code and install `Flit`. 
 
 Now install the dependencies and test dependencies:
 
